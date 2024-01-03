@@ -1,0 +1,1 @@
+YATRA_URL = "https://www.yatra.com/"
